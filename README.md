@@ -1,1 +1,1 @@
-# gitsite
+# copyright 2020 vagile tech all rights reserved
