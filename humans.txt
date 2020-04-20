@@ -1,3 +1,20 @@
+<<<<<<< HEAD
 # this is a sample text that i am using.
 
 # this is another line to understand stash.
+=======
+# humanstxt.org/
+# The humans responsible & technology colophon
+# TEAM
+blah lah blah
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+>>>>>>> 19ed5f051d71ee162bcb62b8dc83be0ff018b36a
